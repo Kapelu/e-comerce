@@ -16,14 +16,14 @@
 	--link-color: #509ee3;
 	--title-color: #333;
 	--text-color: #222;
-    --text-title-color: #cfbc0a;
-    --text-subtitle-color: #ffffff9d;
+	--text-title-color: #cfbc0a;
+	--text-subtitle-color: #ffffff9d;
 	--white-alpha-color: #ffffff80;
 	--black-alpha-color: #00000050;
 	/*# Fuente */
-    --dancing-script: 'Dancing Script', cursive;
+	--dancing-script: 'Dancing Script', cursive;
 	--raleway: 'Raleway', sans-serif;
-    --roboto-slab:'Roboto Slab', serif;
+	--roboto-slab: 'Roboto Slab', serif;
 
 	--max-width: 1200px;
 	--header-height: 4rem;
@@ -42,7 +42,6 @@
     background: #fff;
 } */
 
-
 /*$ ********** Reseteo Tank you Paul Irish ********** */
 
 html {
@@ -59,15 +58,15 @@ html {
 }
 
 body {
-	margin: 0; 
-	overflow-x: hidden; 
+	margin: 0;
+	overflow-x: hidden;
 	color: var(--text-color);
 }
 
 a {
 	color: var(--black-color);
-    text-decoration: none;
-	transition: all 0.5s ease-out; 
+	text-decoration: none;
+	transition: all 0.5s ease-out;
 }
 
 a:hover {
@@ -105,17 +104,17 @@ h6 {
 }
 
 img {
-	max-width: 100%; 
+	max-width: 100%;
 	/* height: auto; */
 }
 
 p {
-	line-height: 1.6; 
+	line-height: 1.6;
 }
 
 /*$ ********** Utilities ********** */
-.foto-perfil{
-    filter:drop-shadow(1px 4px 15px var(--second-color))
+.foto-perfil {
+	filter: drop-shadow(1px 4px 15px var(--gray-dark-color));
 }
 
 .bg-gray-light {
@@ -150,9 +149,9 @@ p {
 	background-color: var(--second-color);
 }
 .container {
-	margin-left: auto; 
-	margin-right: auto; 
-	max-width: var(--max-width); 
+	margin-left: auto;
+	margin-right: auto;
+	max-width: var(--max-width);
 }
 
 .gray-scale {
@@ -165,6 +164,10 @@ p {
 
 .section {
 	padding: 2rem 1rem;
+}
+
+.section-2 {
+	padding: .2rem 2.5rem;
 }
 
 .section-title {
@@ -227,10 +230,10 @@ p {
 
 .hero-image-title {
 	font-size: 9vw;
-    font-weight: 900;
+	font-weight: 900;
 }
 
 .hero-image-subtitle {
 	font-size: 5vw;
-    font-weight: 300;
+	font-weight: 300;
 }

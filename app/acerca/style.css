@@ -1,0 +1,11 @@
+.about > article {
+	margin-bottom: 2rem;
+}
+
+@media screen and (min-width: 1024px) {
+	.about {
+		display: grid;
+		grid-template-columns: repeat(3, 30%);
+		justify-content: space-between;
+		align-content: center;
+	}}

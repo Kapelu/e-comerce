@@ -1,0 +1,173 @@
+{
+	"comidas": [
+		{
+			"sopa": [
+				{
+					"id": 1,
+					"nombre": "Sopa de pasta",
+					"precio": 2500
+				},
+				{
+					"id": 2,
+					"nombre": "Sopa de plátano",
+					"precio": 2500
+				},
+				{
+					"id": 3,
+					"nombre": "Sopa de ajiaco",
+					"precio": 2500
+				},
+				{
+					"id": 4,
+					"nombre": "Sopa de mute",
+					"precio": 2500
+				},
+				{
+					"id": 5,
+					"nombre": "peto dulce",
+					"precio": 2500
+				}
+			],
+			"proteina": [
+				{
+					"id": 1,
+					"nombre": "Pechuga a la plancha",
+					"precio": 2500
+				},
+				{
+					"id": 2,
+					"nombre": "Carne asada",
+					"precio": 2500
+				},
+				{
+					"id": 3,
+					"nombre": "Lengua en salsa",
+					"precio": 2500
+				},
+				{
+					"id": 4,
+					"nombre": "Higado encebollado",
+					"precio": 2500
+				},
+				{
+					"id": 5,
+					"nombre": "Callo sudado",
+					"precio": 2500
+				}
+			],
+			"principio": [
+				{
+					"id": 1,
+					"nombre": "Frijol",
+					"precio": 2500
+				},
+				{
+					"id": 52,
+					"nombre": "Lenteja",
+					"precio": 2500
+				},
+				{
+					"id": 3,
+					"nombre": "Garbanzo",
+					"precio": 2500
+				},
+				{
+					"id": 4,
+					"nombre": "Arveja verde",
+					"precio": 2500
+				},
+				{
+					"id": 5,
+					"nombre": "Arveja amarilla",
+					"precio": 2500
+				},
+				{
+					"id": 6,
+					"nombre": "Calabacin",
+					"precio": 2500
+				},
+				{
+					"id": 7,
+					"nombre": "Zukini",
+					"precio": 2500
+				},
+				{
+					"id": 8,
+					"nombre": "Callo sudado",
+					"precio": 2500
+				}
+			],
+			"arroz": [
+				{
+					"id": 1,
+					"nombre": "Arroz blanco",
+					"precio": 2500
+				},
+				{
+					"id": 2,
+					"nombre": "Arroz amarillo",
+					"precio": 2500
+				}
+			],
+			"ensalada": [
+				{
+					"id": 1,
+					"nombre": "Ensalada mixta",
+					"precio": 2500
+				},
+				{
+					"id": 2,
+					"nombre": "Ensalada dulce",
+					"precio": 2500
+				},
+				{
+					"id": 3,
+					"nombre": "Ensalada fría",
+					"precio": 2500
+				},
+				{
+					"id": 4,
+					"nombre": "Ensalada césar",
+					"precio": 2500
+				}
+			],
+			"complemento": [
+				{
+					"id": 1,
+					"nombre": "Papa salada",
+					"precio": 2500
+				},
+				{
+					"id": 2,
+					"nombre": "platano sensación",
+					"precio": 2500
+				},
+				{
+					"id": 3,
+					"nombre": "Tajadas de platano",
+					"precio": 2500
+				},
+				{
+					"id": 4,
+					"nombre": "Yuca",
+					"precio": 2500
+				}
+			],
+			"adicionales": []
+		}
+	],
+	"bebidas": [
+		{
+			"aguas": [],
+			"cerveza": [],
+			"vino": [
+				{
+					"tinto": [],
+					"blanco": [],
+					"espumante": []
+				}
+			],
+			"cocktel": []
+		}
+	]
+}

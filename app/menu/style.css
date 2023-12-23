@@ -1,0 +1,59 @@
+/* .lista{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} */
+
+/* style.css */
+
+.section {
+	text-align: center;
+}
+
+/*   .section-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  } */
+
+.menu-container {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.category {
+	width: 400px;
+	margin: 20px;
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 8px;
+}
+
+table {
+	width: 100%;
+	margin-top: 10px;
+	border-collapse: collapse;
+}
+
+th,
+td {
+	padding: 8px;
+	text-align: left;
+}
+
+th {
+	border-bottom: 2px solid #ddd;
+}
+
+.lista {
+	border-bottom: 1px solid #ddd;
+}
+
+/* Alineación específica para nombre y precio */
+td:nth-child(1) {
+	text-align: left;
+}
+
+td:nth-child(2) {
+	text-align: right;
+}
